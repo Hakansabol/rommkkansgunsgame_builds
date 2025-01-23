@@ -1,1 +1,4 @@
 *.zip
+/gunsgame_BurstDebugInformation_DoNotShip/*
+/.idea
+.DS_Store
