@@ -1,0 +1,5 @@
+*.zip
+/gunsgame_BurstDebugInformation_DoNotShip/*
+/.idea
+.DS_Store
+/_Linux/Arena of Bobert_BurstDebugInformation_DoNotShip
